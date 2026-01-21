@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="fw_theme_settings_options:vibratex">
+            <key name="social-header" />            
+            <key name="go_top_text" />            
+            <key name="copyrights" />            
+            <key name="services_header" />            
+            <key name="tagline" />
+            <key name="navbar-icons">
+            </key>            
+        </key>
+    </admin-texts>
+</wpml-config>
